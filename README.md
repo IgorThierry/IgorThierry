@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I'm looking for a new opportunity -->
 
-- 🔭 I’m currently working at [Confitec](https://www.linkedin.com/company/confitec/mycompany/)
+- 🔭 I’m currently working at [Confitec](https://br.linkedin.com/company/confitec)
 
 - 👨‍💻 All of my projects are available at [igorthierry.com.br](https://igorthierry.com.br)
 
