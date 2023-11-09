@@ -41,7 +41,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorThierry&layout=compact&theme=vision-friendly-dark" alt="IgorThierry's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 📸 &nbsp;Social Links
 
