@@ -12,7 +12,7 @@
 
 <!-- - ▶️ I regularly post videos on [youtube.com/igorthierry](https://youtube.com/igorthierry) -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, Laravel, Bitcoin, Shares**
+- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, Laravel**
 
 - ⚡ Curiosity about me **Bitcoin enthusiast ₿**
 
