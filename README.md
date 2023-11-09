@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/IgorThierry/67e7c01fc10adbdf753f92cc32d5bdee/raw/f3021f04a3f31c656714106fa4b744bd2a0e334c/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/IgorThierry/IgorThierry/main/hi.gif" width="30px"/>, I'm Igor Thierry</h1>
+<h1 align="left">Hi <img src="./hi.gif?raw=true" width="30px"/>, I'm Igor Thierry</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorThierry&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sênior Web Developer
