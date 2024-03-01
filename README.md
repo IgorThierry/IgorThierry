@@ -4,11 +4,11 @@
 
 - 🔥 Sênior Web Developer
 
-<!-- - 🔭 I'm looking for a new opportunity -->
+- 🔭 I'm looking for a new opportunity
 
-- 🔭 I’m currently working at [Confitec](https://br.linkedin.com/company/confitec)
+<!-- - 🔭 I’m currently working at [Confitec](https://br.linkedin.com/company/confitec)
 
-- 👨‍💻 All of my projects are available at [igorthierry.com.br](https://igorthierry.com.br)
+- 👨‍💻 All of my projects are available at [igorthierry.com.br](https://igorthierry.com.br) -->
 
 <!-- - ▶️ I regularly post videos on [youtube.com/igorthierry](https://youtube.com/igorthierry) -->
 
